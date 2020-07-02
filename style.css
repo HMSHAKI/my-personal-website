@@ -9,6 +9,7 @@ h1 {
 p {
     color: dimgray;
     line-height: 1.6;
+    text-align: center;
 }
 .line-highlight {
     color: rgb(255, 71, 126);
@@ -54,6 +55,7 @@ p {
     color: white;
     font-weight: 500;
     margin-top: 5px;
+    text-align: center;
 }
 section {
     height: 500px;
